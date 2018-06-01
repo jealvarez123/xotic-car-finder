@@ -76,6 +76,7 @@ label {
   padding: 100px;
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .backgroundBox {
